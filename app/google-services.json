@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134917555627",
+    "firebase_url": "https://chequepay-9eec2.firebaseio.com",
+    "project_id": "chequepay-9eec2",
+    "storage_bucket": "chequepay-9eec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134917555627:android:f56e207f501a6d5b09feee",
+        "android_client_info": {
+          "package_name": "com.botosoft.chequepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134917555627-1ensp5l38tpmg0uflaqgaihq2haimuma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.botosoft.chequepay",
+            "certificate_hash": "efb9752a011da63a7de32cee5e8330f39e7912bd"
+          }
+        },
+        {
+          "client_id": "134917555627-9sbr63pj4sho7p8ohde54hahnaddpsbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8LU_j0RZzrg2VKAts2LsBLDN4oPGYUrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134917555627-9sbr63pj4sho7p8ohde54hahnaddpsbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
